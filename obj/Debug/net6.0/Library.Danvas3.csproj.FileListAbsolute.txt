@@ -1,0 +1,12 @@
+C:\Users\dgand\source\repos\Library.Danvas3\bin\Debug\net6.0\Library.Danvas3.deps.json
+C:\Users\dgand\source\repos\Library.Danvas3\bin\Debug\net6.0\Library.Danvas3.dll
+C:\Users\dgand\source\repos\Library.Danvas3\bin\Debug\net6.0\Library.Danvas3.pdb
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.csproj.AssemblyReference.cache
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.AssemblyInfoInputs.cache
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.AssemblyInfo.cs
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.csproj.CoreCompileInputs.cache
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.dll
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\refint\Library.Danvas3.dll
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\Library.Danvas3.pdb
+C:\Users\dgand\source\repos\Library.Danvas3\obj\Debug\net6.0\ref\Library.Danvas3.dll
